@@ -12,4 +12,8 @@ export default {
     AppSecret:
       'wMLUnaucxVzT20TC7dcivZvvqVmutw0KKuQPpcDZvROcd8SJzZBeScvSARgx0vhB',
   },
+  chatGpt: {
+    API_KEY: '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',
+    ORG_ID: '',
+  },
 } as MidwayConfig;
